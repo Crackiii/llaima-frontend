@@ -20,7 +20,7 @@ const Comments = (props) => {
         className="fb-comments"
         data-href="https://www.facebook.com/llaimagames"
         data-numposts="10"
-        data-width=""
+        data-width="100%"
       ></div>
     </Container>
   );
