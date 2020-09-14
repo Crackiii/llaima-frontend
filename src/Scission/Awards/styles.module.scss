@@ -1,0 +1,45 @@
+.awardsContainer {
+  width: 100%;
+  height: auto;
+  background: #ddd;
+  padding: 50px 0;
+
+  .head {
+    text-align: center;
+    margin-bottom: 30px;
+    font-size: 25px;
+    font-weight: bold;
+  }
+
+  .awards {
+    text-align: center;
+
+    .awardWrap {
+      width: 200px;
+      height: 200px;
+      margin: auto;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      text-align: center;
+      border-radius: 50%;
+      background: #8b9bab;
+      color: #fff;
+      padding: 10px;
+      border: 1px dashed rgb(46, 46, 46);
+
+      img {
+        width: 95%;
+        margin: 30px auto 0 auto;
+      }
+
+      p {
+        margin-top: 20px;
+
+        a {
+          color: #fff;
+        }
+      }
+    }
+  }
+}

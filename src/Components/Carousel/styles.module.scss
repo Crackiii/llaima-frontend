@@ -1,0 +1,28 @@
+.carousel {
+  margin-top: 117px;
+  height: calc(100vh - 46px);
+  background: #aaa;
+
+  .carouselItem {
+    height: calc(100vh - 46px);
+
+    img {
+      // margin: auto;
+      height: 100%;
+    }
+
+    .carouselCaption {
+      background: rgba($color: #000000, $alpha: 0.5);
+    }
+
+    .carouselImage {
+      display: block;
+      width: 100%;
+      height: 100%;
+      background-repeat: no-repeat;
+      // background-attachment: fixed;
+      background-position: center;
+      background-size: cover;
+    }
+  }
+}

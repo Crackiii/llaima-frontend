@@ -1,0 +1,61 @@
+.linksNav {
+  margin-top: 46px;
+  font-size: 13px;
+}
+
+.lnLogo {
+  width: 50px;
+  height: 50px;
+  margin-left: 18px;
+  transition: 0.2s;
+  overflow: hidden;
+
+  img {
+    margin-top: -3px;
+    width: 100%;
+  }
+}
+
+.navLink {
+  font-weight: bold;
+  letter-spacing: 1px;
+  line-height: 40px;
+  transition: 0.2s;
+}
+
+.navDrop {
+  font-weight: bold;
+  letter-spacing: 1px;
+  transition: 0.2s;
+  color: #fff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  outline: none;
+
+  .dropToggle {
+    margin-top: -2px;
+    color: rgba(255, 255, 255, 0.5);
+    font-weight: bold;
+    outline: none;
+    font-size: 14px;
+
+    &::after {
+      vertical-align: 0.1em;
+      margin-left: 0.455em;
+    }
+  }
+
+  .dropItem {
+    font-size: 13px;
+  }
+}
+
+:global(.logoSmall) {
+  width: 25px;
+  height: 25px;
+}
+
+:global(.navSmall) {
+  line-height: 30px;
+}

@@ -1,0 +1,23 @@
+.newsLetter {
+  background-color: #343a40 !important;
+  color: #fff;
+  padding: 80px 0;
+  .subscribeForm {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 0;
+  }
+  .form-group {
+    margin: 0;
+    padding: 0;
+  }
+  .formControl {
+    padding: 25px 20px;
+    margin-right: 10px;
+  }
+  .formSubmit {
+    display: block;
+    width: 40%;
+  }
+}

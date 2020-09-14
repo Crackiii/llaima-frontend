@@ -1,0 +1,49 @@
+.about {
+  width: 100%;
+  background-position: center;
+  position: relative;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 50px 0;
+  border-right: 1px solid #343a40ad;
+  border-left: 1px solid #343a40ad;
+  background-color: #343a40ad;
+
+  .llaimaLogo {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 100%;
+    width: 200px;
+    margin: auto;
+    margin-bottom: 20px;
+
+    span {
+      display: block;
+      border-radius: 50%;
+      overflow: hidden;
+    }
+
+    img {
+      width: 100%;
+      transform: scale(1.2);
+    }
+  }
+
+  .aboutText {
+    height: auto;
+    color: #fff;
+    padding: 30px 100px;
+
+    div {
+      font-weight: 700;
+      font-size: 20px;
+      margin-bottom: 10px;
+      text-transform: uppercase;
+      letter-spacing: 1px;
+    }
+
+    p {
+    }
+  }
+}

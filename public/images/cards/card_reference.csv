@@ -1,0 +1,48 @@
+category,type,name,tech grade,card_count,color,img
+arsenal,missile,Torpedo,1,6,red,arsenal_T1_missile_torpedo.png
+arsenal,missile,Arrow,1,6,red,arsenal_T1_missile_arrow.png
+arsenal,shield,Vigilante,1,6,green,arsenal_T1_shield_vigilante.png
+arsenal,shield,Watch Tower,1,6,green,arsenal_T1_shield_watch_tower.png
+arsenal,ship,Cloud Fighter,1,4,blue,arsenal_T1_ship_cloud_fighter.png
+arsenal,ship,Wing,1,4,blue,arsenal_T1_ship_wing.png
+arsenal,ship,Sky Hawk,1,4,blue,arsenal_T1_ship_sky_hawk.png
+arsenal,ship,Messenger,1,4,blue,arsenal_T1_ship_messenger.png
+arsenal,ship,Carrier,1,4,blue,arsenal_T1_ship_carrier.png
+arsenal,ship,Merchant,1,4,blue,arsenal_T1_ship_merchant.png
+arsenal,shield,Silent Surveillance,2,4,green,arsenal_T2_shield_silent_surveillance.png
+arsenal,shield,Plasmatic Membrane,2,4,green,arsenal_T2_shield_plasmatic_membrane.png
+arsenal,missile,Guided Rocket,2,5,red,arsenal_T2_missile_guided_rocket.png
+arsenal,missile,Cluster Bomb,2,4,red,arsenal_T2_missile_cluster_bomb.png
+arsenal,ship,Meteor Shower,2,3,blue,arsenal_T2_ship_meteor_shower.png
+arsenal,ship,Diplomatic Envoy,2,2,blue,arsenal_T2_ship_diplomatic_envoy.png
+arsenal,ship,Flying Warship,2,3,blue,arsenal_T2_ship_flying_warship.png
+arsenal,ship,Autonomous Sniper,2,2,blue,arsenal_T2_ship_autonomous_sniper.png
+arsenal,ship,Amphibious Cruiser,2,3,blue,arsenal_T2_ship_amphibious_cruiser.png
+arsenal,shield,Control Station,3,2,green,arsenal_T3_shield_control_station.png
+arsenal,shield,Iron Curtain,3,2,green,arsenal_T3_shield_iron_curtain.png
+arsenal,missile,Phoenix,3,2,red,arsenal_T3_missile_phoenix.png
+arsenal,missile,Nuclear Warhead,3,2,red,arsenal_T3_missile_nuclear_warhead.png
+arsenal,ship,Armored Falcon,3,3,blue,arsenal_T3_ship_armored_falcon.png
+arsenal,ship,Shadow Satellite,3,3,blue,arsenal_T3_ship_shadow_satellite.png
+arsenal,ship,Sky Fortress,3,3,blue,arsenal_T3_ship_sky_fortress.png
+arsenal,ship,Mecha,4,4,black,arsenal_T4_ship_mecha.png
+research,facility,Biochemistry,-,2,grey,research_facility_biochemistry.png
+research,facility,Genetics,-,2,grey,research_facility_genetics.png
+research,facility,Cloning,-,2,grey,research_facility_cloning.png
+research,facility,Advanced Warfare,-,2,grey,research_facility_advanced_warfare.png
+research,facility,Robotics,-,1,grey,research_facility_robotics.png
+research,facility,Particle Accelerator,-,1,grey,research_facility_particle_accelerator.png
+research,facility,Artificial Intelligence,-,2,grey,research_facility_artificial_intelligence.png
+research,facility,Statistics,-,1,grey,research_facility_statistics.png
+research,facility,Neuroscience,-,1,grey,research_facility_neuroscience.png
+research,facility,Military Engineering,-,1,grey,research_facility_military_engineering.png
+research,project,Research Grant,-,2,brown,research_project_research_grant.png
+research,project,Computer Vision,-,2,brown,research_project_computer_vision.png
+research,project,Quantum Optics,-,1,brown,research_project_quantum_optics.png
+research,project,Cybersecurity,-,1,brown,research_project_cybersecurity.png
+research,project,Atomic Physics,-,1,brown,research_project_atomic_physics.png
+research,project,General Relativity,-,2,brown,research_project_general_relativity.png
+research,project,Electromagnetism,-,1,brown,research_project_electromagnetism.png
+research,project,Topology,-,2,brown,research_project_topology.png
+research,project,Nanotechnology,-,1,brown,research_project_nanotechnology.png
+research,project,String Theory,-,2,brown,research_project_string_theory.png

@@ -1,0 +1,19 @@
+.slNavbar {
+  background: #ddd;
+
+  .socialLinks {
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background: #eee;
+    color: rgb(107, 107, 107);
+    text-align: center;
+    line-height: 30px;
+    margin-right: 5px;
+
+    &:hover {
+      opacity: 0.8;
+    }
+  }
+}

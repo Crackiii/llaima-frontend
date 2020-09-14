@@ -1,0 +1,49 @@
+.video {
+  position: relative;
+  width: 100%;
+  height: auto;
+  z-index: 2;
+
+  iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+
+  .overlay {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: rgba($color: #000000, $alpha: 0.8);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+    .overlayFlex {
+      display: flex;
+      flex-direction: row;
+      justify-content: center;
+
+      .overlayText {
+        font-size: 20px;
+        color: #fff;
+        font-size: 25px;
+        margin-top: 8px;
+        letter-spacing: 2px;
+        text-transform: uppercase;
+        font-weight: bold;
+      }
+      .icon {
+        font-size: 50px;
+        color: #fff;
+        cursor: pointer;
+        margin: 0 20px;
+      }
+    }
+  }
+}
