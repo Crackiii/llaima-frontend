@@ -7,7 +7,7 @@ const Comments = (props) => {
   return (
     <Container className={styles.comments} id="comments">
       <div className={styles.head}>Comments</div>
-      <DiscussionEmbed
+      {/* <DiscussionEmbed
         shortname="scission"
         config={{
           url: "http://localhost:3000",
@@ -15,7 +15,13 @@ const Comments = (props) => {
           title: "Title of Your Article",
           //   language: "zh_TW", //e.g. for Traditional Chinese (Taiwan)
         }}
-      />
+      /> */}
+      <div
+        className="fb-comments"
+        data-href="https://www.facebook.com/llaimagames"
+        data-numposts="10"
+        data-width=""
+      ></div>
     </Container>
   );
 };
